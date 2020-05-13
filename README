@@ -1,0 +1,3 @@
+Traffic sign recognition for a robot car.
+Uses Haar cascade to detect traffic sign.
+Uses Tensorflow cnn model to recognize the signs.
