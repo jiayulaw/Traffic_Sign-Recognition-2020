@@ -1,3 +1,21 @@
 Traffic sign recognition for a robot car.
-Uses Haar cascade to detect traffic sign.
+
+Object_Detection_Method.py:
+The main script to perform traffic sign recognition on webcam.
+Uses Haar cascade to detect traffic sign. 
 Uses Tensorflow cnn model to recognize the signs.
+
+Train_Recognizer.py:
+How I train the traffic sign recognizer.
+
+haar_traffic_sign_detector.xml:
+Haar cascade for detecting the traffic signs for my project.
+
+Sign_Recognizer_CNN.p:
+The CNN model that recognizes traffic sign from detected images.
+
+Template_Matching_Method.py:
+Uses template matching.
+Actually it is not suitable at all.
+It is incompletely written but still can run.
+Just for testing / playing around with template matching.
